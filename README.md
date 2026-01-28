@@ -13,3 +13,4 @@
 - [📝 CMAME:基于Galerkin离散化的PINN-FEM法用于多维非均质工程结构的反分析](https://mp.weixin.qq.com/s/_Rw1QfUBuD6k8-OMPk4Sjg)
 - [📝 基于神经网络增强的可微分有限元法求解边值问题](https://mp.weixin.qq.com/s/Yj0npMtF3FIsRaBPaPUnlg)
 - [📝 面向计算力学中物理和数据引导的AI框架的未来](https://mp.weixin.qq.com/s/8VRqo3OupZ7hCt1snWeynw)
+- [📝 Nature：物理信息深度学习未来发展方向](https://mp.weixin.qq.com/s/PTcgpgsjFi2ADPc2ESlqGQ)
